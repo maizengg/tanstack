@@ -1,8 +1,8 @@
-# TanStack Chat Template
+# TanStack Chat 
 
 ![TanStack Starter Preview](tanstack-starter-preview.jpg)
 
-A modern chat template built with TanStack Router and Claude AI integration features a clean and responsive interface.
+A modern chat template built by  seancdavis, TomasBankauskas, maizengg, Chanzhaoyu(Redon). integration features a clean and responsive interface .
 
 **⚡ View demo:** [https://tanstack-starter.netlify.app/](https://tanstack-starter.netlify.app/)
 
