@@ -2,7 +2,8 @@
 
 ![TanStack Starter Preview](tanstack-starter-preview.jpg)
 
-A modern chat template built by  seancdavis, TomasBankauskas, maizengg, Chanzhaoyu(Redon). integration features a clean and responsive interface .
+A integrative chatbot built by seancdavis, TomasBankauskas, maizengg, Chanzhaoyu(Redon). integration features a clean and responsive interface .
+Collabrators : seancdavis, TomasBankauskas, maizengg (MAIZEN), Chanzhaoyu (Redon)
 
 **⚡ View demo:** [https://tanstack-starter.netlify.app/](https://tanstack-starter.netlify.app/)
 
